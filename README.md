@@ -1,21 +1,9 @@
-# Hi, I'm Dolguso 👋
+# Hi, I'm dolguso 👋
 
 > *Code that works. UI that disappears.*
 
 10년차 윈도우 소프트웨어 개발자 → 프리랜서로 나아가는 중입니다.
 사용자가 불편함을 느끼지 않는 소프트웨어를 만드는 것에 집착합니다.
-
-## 🧭 지금까지의 준비 & 앞으로의 계획
-
-- **지금까지 한 것**
-  - `dolguso/dolguso` 프로필 저장소 생성 및 로컬 clone 완료
-  - 이 프로필을 위한 `README.md` 초안 작성 (지금 보고 있는 이 문서)
-- **지금 해야 할 것**
-  - 로컬에서 이 `README.md`를 커밋하고 `push`하여 GitHub 프로필에 반영
-- **앞으로 채워갈 것**
-  - 실제로 사용할 **이메일 및 연락처 정보** 정리 후 `Contact` 섹션에 반영
-  - 프리랜서로 진행하는 **프로젝트가 완성되는 대로** `Featured Projects` 섹션에 상세 소개 추가
-  - GitHub 활동을 쌓아가며 `GitHub Stats` 카드가 **실제 사용/기여 데이터**로 채워지도록 관리
 
 <br/>
 
@@ -33,17 +21,12 @@
 
 **Languages**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)\
 
 **Frameworks & Tools**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-5C2D91?style=flat-square&logo=windows&logoColor=white)
 
 **Tools**
 
@@ -53,19 +36,8 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dolguso&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dolguso&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<br/>
-
 ## 🌱 Currently Learning
 
-- React Native + Expo (Web & Mobile cross-platform)
-- TypeScript 심화
 - 프리랜서 포트폴리오 구축 중
 
 <br/>
@@ -84,7 +56,7 @@
 
 ## 📬 Contact
 
-- 📧 Email: `your@email.com`
+- 📧 Email: `coldcow.kim@gmail.com`
 - 💼 Available for **freelance projects**
 
 <br/>
