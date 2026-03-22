@@ -44,10 +44,6 @@
 
 ## 📂 Featured Projects
 
-<p>
-  <img src="https://raw.githubusercontent.com/dolguso/dolguso/main/images/loa-bridge-hero.png" alt="Loa-Bridge representative visual" width="100%" />
-</p>
-
 ### Loa-Bridge
 
 > 로스트아크 OpenAPI + Supabase 기반의 개인 숙제 관리, 시세 조회, 파티 조율, 관리자 운영 기능을 담은 풀스택 서비스
