@@ -48,15 +48,26 @@
   <img src="https://raw.githubusercontent.com/dolguso/Loa-Bridge-Front/main/src/assets/hero.png" alt="Loa-Bridge representative visual" width="100%" />
 </p>
 
-| Project | Description | Stack |
-|---|---|---|
-| [Loa-Bridge](https://github.com/dolguso/Loa-Bridge) | 로스트아크 OpenAPI + Supabase 기반의 개인 숙제 관리, 시세 조회, 파티 조율, 관리자 운영 기능을 담은 풀스택 서비스 | React, Vite, Express, Supabase |
-| [Frontend Repo](https://github.com/dolguso/Loa-Bridge-Front) | Vercel 배포를 고려한 웹 프론트엔드. Google 로그인, 대시보드, 거래소, 파티, 관리자 UI 구성 | React, React Query, Tailwind |
-| [Backend Repo](https://github.com/dolguso/Loa-Bridge-Back) | Render 배포를 고려한 API 서버. 인증, 체크리스트, 파티, 관리자 로그/운영 기능 구현 | Node.js, Express, Supabase |
+### Loa-Bridge
 
-- 핵심 기능 1: Google OAuth 로그인, 대표 캐릭터 설정, 주간 체크리스트 토글까지 하나의 서비스 흐름으로 구성했습니다.
-- 핵심 기능 2: 거래소 시세 조회와 파티 조율, 가입 요청/승인 프로세스를 포함한 커뮤니티 기능을 구현했습니다.
-- 핵심 기능 3: 관리자 페이지, 활동 로그 탐색, Vercel/Render 분리 배포 구조까지 직접 설계하고 연결했습니다.
+> 로스트아크 OpenAPI + Supabase 기반의 개인 숙제 관리, 시세 조회, 파티 조율, 관리자 운영 기능을 담은 풀스택 서비스
+
+- Repository
+  - [Parent Repo](https://github.com/dolguso/Loa-Bridge)
+  - [Frontend Repo](https://github.com/dolguso/Loa-Bridge-Front)
+  - [Backend Repo](https://github.com/dolguso/Loa-Bridge-Back)
+
+- Problem
+  - 게임 플레이에 필요한 주간 숙제, 시세 확인, 파티 일정 조율이 여러 커뮤니티와 도구에 흩어져 있어 흐름이 끊기는 문제가 있었습니다.
+  - 운영자 관점에서도 공지, 점검, 권한 관리, 사용자 활동 추적을 한곳에서 보기 어려운 상태였습니다.
+
+- Solution
+  - Google OAuth 로그인 이후 대표 캐릭터 설정, 주간 체크리스트, 거래소 조회, 파티 생성/가입 요청 흐름을 하나의 서비스로 묶었습니다.
+  - 관리자 페이지, 활동 로그 탐색, Vercel/Render 분리 배포 구조까지 연결해 실제 운영 가능한 형태로 정리했습니다.
+
+- Result
+  - 사용자 기능과 운영 기능이 분리된 구조로 정리되어, 개인 사용 서비스이면서도 확장 가능한 포트폴리오 프로젝트가 되었습니다.
+  - 인증/권한, 로그, 배포, 서비스 흐름을 끝까지 연결한 사례로 남길 수 있게 되었습니다.
 
 <br/>
 
