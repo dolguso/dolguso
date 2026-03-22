@@ -52,6 +52,7 @@
   - [Parent Repo](https://github.com/dolguso/Loa-Bridge)
   - [Frontend Repo](https://github.com/dolguso/Loa-Bridge-Front)
   - [Backend Repo](https://github.com/dolguso/Loa-Bridge-Back)
+  - [Live Demo](https://loa-bridge-front.vercel.app)
 
 - Problem
   - 게임 플레이에 필요한 주간 숙제, 시세 확인, 파티 일정 조율이 여러 커뮤니티와 도구에 흩어져 있어 흐름이 끊기는 문제가 있었습니다.
