@@ -45,7 +45,7 @@
 ## 📂 Featured Projects
 
 <p>
-  <img src="https://raw.githubusercontent.com/dolguso/Loa-Bridge-Front/main/src/assets/hero.png" alt="Loa-Bridge representative visual" width="100%" />
+  <img src="https://raw.githubusercontent.com/dolguso/dolguso/main/images/loa-bridge-hero.png" alt="Loa-Bridge representative visual" width="100%" />
 </p>
 
 ### Loa-Bridge
