@@ -44,13 +44,13 @@
 
 ## 📂 Featured Projects
 
-> 🚧 포트폴리오 프로젝트 업로드 예정입니다. 기대해주세요!
-
-<!--
 | Project | Description | Stack |
 |---|---|---|
-| [Project Name](링크) | 한 줄 설명 | React, TypeScript |
--->
+| [Loa-Bridge](https://github.com/dolguso/Loa-Bridge) | 로스트아크 OpenAPI + Supabase 기반의 개인 숙제 관리, 시세 조회, 파티 조율, 관리자 운영 기능을 담은 풀스택 서비스 | React, Vite, Express, Supabase |
+| [Frontend Repo](https://github.com/dolguso/Loa-Bridge-Front) | Vercel 배포를 고려한 웹 프론트엔드. Google 로그인, 대시보드, 거래소, 파티, 관리자 UI 구성 | React, React Query, Tailwind |
+| [Backend Repo](https://github.com/dolguso/Loa-Bridge-Back) | Render 배포를 고려한 API 서버. 인증, 체크리스트, 파티, 관리자 로그/운영 기능 구현 | Node.js, Express, Supabase |
+
+- 핵심 포인트: 인증/권한, 관리자 도구, 로그 탐색, 배포 가능한 구조까지 직접 구성했습니다.
 
 <br/>
 
